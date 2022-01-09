@@ -1,1 +1,1 @@
-from game_process_exceptions import *
+from exceptions.game_process_exceptions import *
