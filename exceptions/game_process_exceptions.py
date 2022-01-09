@@ -1,0 +1,2 @@
+class DisqualificationException(BaseException):
+    pass
